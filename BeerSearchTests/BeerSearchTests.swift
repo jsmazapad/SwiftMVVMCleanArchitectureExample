@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import BeerSearch
+//@testable import BeerSearch
 
 class BeerSearchTests: XCTestCase {
 

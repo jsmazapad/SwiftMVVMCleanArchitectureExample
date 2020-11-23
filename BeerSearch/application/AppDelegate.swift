@@ -1,18 +1,10 @@
-//
-//  AppDelegate.swift
-//  BeerSearch
-//
-//  Created by Joaquin Sainz de la Maza on 2020-11-06.
-//  Copyright © 2020 Joaquin Sainz de la Maza. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
+    var window: UIWindow?
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
