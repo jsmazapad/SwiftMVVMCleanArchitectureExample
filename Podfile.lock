@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (5.0.2)
+  - AlamofireImage (4.0.2):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - Bond (7.6.6):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.4)
+  - ObjectMapper (3.5.1)
+  - ReactiveKit (3.16.3)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - AlamofireImage (~> 4.0)
+  - Bond
+  - ObjectMapper (= 3.5.1)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Bond
+    - Differ
+    - ObjectMapper
+    - ReactiveKit
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  AlamofireImage: ca7325440303d041a80b7caa55066ba945522378
+  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
+  Differ: 5cd747e2f29c11ea9605eba7cb369df17e2b1ee2
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  ReactiveKit: faec214ebc027b371b8037e0cf6336bacd42b889
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+
+PODFILE CHECKSUM: f3025f78b1cbb4bcb422bd0985c42b9068eba594
+
+COCOAPODS: 1.8.4
